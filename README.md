@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # nadiella_pos_app
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# nadiella-pos-app
+>>>>>>> 2e828cde6a4fbe790abc78e0b89f6ff81ef805e3
